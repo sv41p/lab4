@@ -1,0 +1,15 @@
+C:\Users\mrost\source\repos\Laba_PPP_4-master\Laba_PPP_4\x64\Debug\Laba_PPP_4.vcxproj.AssemblyReference.cache
+C:\Users\mrost\source\repos\Laba_PPP_4-master\Laba_PPP_4\x64\Debug\LabaPPP4.ConnectWindow.resources
+C:\Users\mrost\source\repos\Laba_PPP_4-master\Laba_PPP_4\x64\Debug\LabaPPP4.MainWindow.resources
+C:\Users\mrost\source\repos\Laba_PPP_4-master\Laba_PPP_4\x64\Debug\Laba_PPP_4.vcxproj.GenerateResource.cache
+C:\Users\mrost\source\repos\Laba_PPP_4-master\Laba_PPP_4\x64\Debug\Laba_PPP.F4940C12.Up2Date
+E:\ППП\Laba4\Laba_PPP_4\x64\Debug\Laba_PPP_4.vcxproj.AssemblyReference.cache
+E:\ППП\Laba4\Laba_PPP_4\x64\Debug\LabaPPP4.ConnectWindow.resources
+E:\ППП\Laba4\Laba_PPP_4\x64\Debug\LabaPPP4.MainWindow.resources
+E:\ППП\Laba4\Laba_PPP_4\x64\Debug\Laba_PPP_4.vcxproj.GenerateResource.cache
+E:\ППП\Laba4\Laba_PPP_4\x64\Debug\Laba_PPP.F4940C12.Up2Date
+D:\ППП\Laba4\Laba_PPP_4\x64\Debug\Laba_PPP_4.vcxproj.AssemblyReference.cache
+D:\ППП\Laba4\Laba_PPP_4\x64\Debug\LabaPPP4.ConnectWindow.resources
+D:\ППП\Laba4\Laba_PPP_4\x64\Debug\LabaPPP4.MainWindow.resources
+D:\ППП\Laba4\Laba_PPP_4\x64\Debug\Laba_PPP_4.vcxproj.GenerateResource.cache
+D:\ППП\Laba4\Laba_PPP_4\x64\Debug\Laba_PPP.F4940C12.Up2Date

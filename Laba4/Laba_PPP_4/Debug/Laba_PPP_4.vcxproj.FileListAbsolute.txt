@@ -1,0 +1,5 @@
+C:\Users\mrost\source\repos\Laba_PPP_4-master\Laba_PPP_4\Debug\Laba_PPP_4.vcxproj.AssemblyReference.cache
+C:\Users\mrost\source\repos\Laba_PPP_4-master\Laba_PPP_4\Debug\LabaPPP4.ConnectWindow.resources
+C:\Users\mrost\source\repos\Laba_PPP_4-master\Laba_PPP_4\Debug\LabaPPP4.MainWindow.resources
+C:\Users\mrost\source\repos\Laba_PPP_4-master\Laba_PPP_4\Debug\Laba_PPP_4.vcxproj.GenerateResource.cache
+C:\Users\mrost\source\repos\Laba_PPP_4-master\Laba_PPP_4\Debug\Laba_PPP.F4940C12.Up2Date
